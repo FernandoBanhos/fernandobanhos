@@ -6,11 +6,11 @@ Sou um desenvolvedor especializado em Delphi e Lazarus Fullstack
 - 🔭 Atualmente: Trabalhando com Delphi, Lazarus
 - 👯 Buscando Colaborações: Estou aberto a colaborações em projetos inovadores e desafiadores.
 - 🤔 Procurando Ajuda: Busco sempre melhorar minhas habilidades e conhecimento em novas tecnologias.
-- 💬 Pergunte-me Sobre: Delphi, Arduino, Lazarus
+- 💬 Pergunte-me Sobre: Delphi, Arduino, Lazarus, PHP
 - 📫 Contato: Sinta-se à vontade para entrar em contato!
  
 ## Hard Skills
-- Linguagens: Delphi XE 10, HTML, CSS
+- Linguagens: Delphi XE 10, HTML, CSS, PHP
 - Banco de Dados: Firebird, MySQL, PostgreSQL, SQL Server, SQLite
 - Relatórios: QuickReport, FastReport, Fortes Report
 - APIs: REST, SOAP
